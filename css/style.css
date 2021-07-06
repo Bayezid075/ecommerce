@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 100px;
+   
+}
+
+.brown-color{
+    background: #FDE9E8;
+    border-radius: 15px;
+    
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+ button{
+    background: #ff136f;
+    padding: 10px 25px;
+    border: none;
+    color: white;
+    font-family: arial;
+    border-radius: 5px;
+    cursor: pointer;
+}
