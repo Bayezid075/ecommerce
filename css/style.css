@@ -1,22 +1,71 @@
-.container{
-    margin-bottom: 100px;
-   
+.t-margin {
+  margin-top: 100px;
 }
 
-.brown-color{
-    background: #FDE9E8;
-    border-radius: 15px;
-    
+.brown-color {
+  background: #fde9e8;
+  border-radius: 15px;
 }
-.carousel-item{
-    padding: 20px 50px;
+.carousel-item {
+  padding: 20px 50px;
 }
- button{
-    background: #ff136f;
-    padding: 10px 25px;
-    border: none;
-    color: white;
-    font-family: arial;
-    border-radius: 5px;
-    cursor: pointer;
+button {
+  background: #ff136f;
+  padding: 10px 25px;
+  border: none;
+  color: white;
+  font-family: arial;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.cat1 {
+  background-image: linear-gradient(45deg, #ff9c36, #fbce1a);
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat2 {
+  background-image: linear-gradient(180deg, #ff1c75, #ff5095);
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat3 {
+  background-image: linear-gradient(45deg, #412bfa, #4282fe);
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.container h1 {
+  color: white;
+}
+.container img {
+  width: 100px;
+}
+
+.card h1 {
+  color: black;
+}
+.card img {
+  width: 200px;
+}
+.card {
+  border: none;
+  margin: 2%;
+  padding: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-body {
+  text-align: center;
+  margin-top: 20px;
+}
+.let-stay {
+  background: #feeae9;
+  height: 40vh;
+}
+.leth {
+  color: black !important;
+}
+#subscribe {
+  margin-bottom: 80px;
+}
+.copyright {
+  text-align: center;
 }
